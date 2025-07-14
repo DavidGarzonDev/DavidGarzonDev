@@ -94,26 +94,6 @@
   </tr>
 </table>
 
----
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://i.postimg.cc/J02MjKX1/Captura.png" alt="Portafolio Web" width="100%" />
-    </td>
-    <td width="50%">
-      <h3>🌐 Portafolio Web</h3>
-      <p>Mi página personal donde muestro mis proyectos, habilidades y contacto profesional.</p>
-      <p><strong>Tecnologías:</strong> React, Tailwind CSS</p>
-      <a href="https://github.com/DavidGarzonDev/portafolio">
-        <img src="https://img.shields.io/badge/GitHub-Código-000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://portafolio-umber-xi.vercel.app">
-        <img src="https://img.shields.io/badge/Vercel-Ver%20Proyecto-black?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
