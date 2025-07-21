@@ -112,6 +112,3 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/davidgarzondev/)
 - 🌐 [Portafolio](https://portafolio-umber-xi.vercel.app/#projects)
-- 🐱 [GitHub](https://github.com/DavidGarzonDev)
-
----
