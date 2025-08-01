@@ -4,10 +4,6 @@
 
 <img src="https://i.postimg.cc/fR0Tf451/David-Garzon-Dev.png" alt="Banner Juan David" />
 
- 
-
-
-
 [![GitHub Followers](https://img.shields.io/github/followers/DavidGarzonDev?style=social)](https://github.com/DavidGarzonDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=social&logo=linkedin)](https://linkedin.com/in/davidgarzondev/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-informational?style=social&logo=google-chrome)](https://portafolio-umber-xi.vercel.app/#projects)
@@ -20,7 +16,7 @@
 
 - 👨‍💻 Desarrollador web junior con interés en **frontend** y **backend**.
 - 🔥 Apasionado por la programación, el diseño y los proyectos creativos.
-- 💡 Actualmente aprendiendo **React**, **TypeScript**,  y **Node.js**.
+- 💡 Actualmente aprendiendo **React**, **TypeScript**, y **Node.js**.
 - ✍️ Siempre en busca de mejorar mis habilidades y construir cosas útiles.
 
 ---
@@ -75,35 +71,19 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://i.postimg.cc/N0cY8KKr/Captura3.png" alt="Kanju Ecommerce" width="100%" />
-    </td>
-    <td width="50%">
-      <h3>🛍️ Kanju Ecommerce (En desarrollo)</h3>
-      <p>Tienda online de ropa juvenil con diseño moderno y minimalista.</p>
-      <p><strong>Tecnologías:</strong> React, Tailwind CSS, Node.js</p>
-      <a href="https://github.com/DavidGarzonDev/kanju">
-        <img src="https://img.shields.io/badge/GitHub-Código-000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://kanju.vercel.app/">
-        <img src="https://img.shields.io/badge/Vercel-Ver%20Proyecto-black?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidGarzonDev&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGarzonDev&layout=compact&theme=radical&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DavidGarzonDev&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DavidGarzonDev&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
