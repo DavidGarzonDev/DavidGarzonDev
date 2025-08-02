@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hola, soy **David Garzon** 
+# 👋 Hola, soy **Juan David Garzon** 
 
 <img src="https://i.postimg.cc/fR0Tf451/David-Garzon-Dev.png" alt="Banner Juan David" />
 
