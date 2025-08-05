@@ -1,6 +1,6 @@
 <div align="center">
-  
-# 👋 Hola, soy **Juan David Garzon** 
+
+# 👋 Hola, soy **Juan David Garzon**
 
 <img src="https://i.postimg.cc/fR0Tf451/David-Garzon-Dev.png" alt="Banner Juan David" />
 
@@ -16,14 +16,16 @@
 
 - 👨‍💻 Desarrollador web junior con interés en **frontend** y **backend**.
 - 🔥 Apasionado por la programación, el diseño y los proyectos creativos.
-- 💡 Actualmente aprendiendo **React**, **TypeScript**, y **Node.js**.
+- 💡 Actualmente aprendiendo **React**, **TypeScript** y **Node.js**.
 - ✍️ Siempre en busca de mejorar mis habilidades y construir cosas útiles.
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,tailwind,git,github,figma" alt="Tecnologías" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,tailwind,git,github,figma" alt="Tecnologías" />
+</p>
 
 ---
 
@@ -48,7 +50,7 @@
   </tr>
 </table>
 
----
+<br/>
 
 <table>
   <tr>
@@ -84,6 +86,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DavidGarzonDev&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=DavidGarzonDev" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=DavidGarzonDev&theme=radical" />
 </p>
 
 ---
