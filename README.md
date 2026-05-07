@@ -2,7 +2,6 @@
 
 # 👋 Hola, soy **Juan David Garzon**
 
-<img src="https://i.postimg.cc/fR0Tf451/David-Garzon-Dev.png" alt="Banner Juan David" />
 
 [![GitHub Followers](https://img.shields.io/github/followers/DavidGarzonDev?style=social)](https://github.com/DavidGarzonDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=social&logo=linkedin)](https://linkedin.com/in/davidgarzondev/)
