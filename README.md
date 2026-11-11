@@ -76,8 +76,14 @@ Diseño y construyo plataformas empresariales que operan en producción todos lo
     </td>
     <td width="55%" valign="top">
       <h3>Gessat</h3>
-      <p>Plataforma para que las empresas colombianas lleven su SG-SST: gestión de documentos de seguridad y salud en el trabajo, capacitaciones para sus trabajadores y pagos integrados con Wompi.</p>
-      <p><code>React</code> <code>Vite</code> <code>Python</code> <code>PostgreSQL</code> <code>Wompi</code> <code>TailwindCSS</code></p>
+      <p>Plataforma con la que una consultora de SG-SST gestiona el sistema de seguridad y salud en el trabajo de sus empresas cliente.</p>
+      <ul>
+        <li>Documentación del SG-SST por empresa</li>
+        <li>Capacitaciones para los trabajadores</li>
+        <li>Usuarios con roles, permisos y control de accesos</li>
+        <li>Pagos integrados con Wompi</li>
+      </ul>
+      <p><code>React</code> <code>Vite</code> <code>Python</code> <code>PostgreSQL</code> <code>Wompi</code> <code>TailwindCSS</code> <code>RBAC</code></p>
       <p>En producción · Cliente real</p>
       <a href="https://gessat.com.co">
         <img src="https://img.shields.io/badge/gessat.com.co-000?style=for-the-badge&logo=vercel&logoColor=white" alt="gessat.com.co" />
