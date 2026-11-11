@@ -23,11 +23,20 @@ Hoy desarrollo la plataforma con la que opera un proveedor de internet por fibra
 **Desarrollador Full Stack** · Conéctate Telecomunicaciones · Yumbo
 <br><sub>Jun 2026 — Actualidad</sub>
 
-- Diseño y desarrollo de **Conectate OSS**, la plataforma con la que opera el ISP: un monolito modular con Clean Architecture y DDD (24 módulos).
-- Migración de la facturación desde WispHub a un sistema propio: desde septiembre de 2026 la facturación sale de nuestra base de datos.
-- Más de 1.000 archivos de pruebas en el backend, unas 7.700 pruebas de frontend y más de 1.400 PRs.
-- Integraciones con SmartOLT, WhatsApp Cloud API, Wompi, OpenAI y telefonía IP. Despliegue con Docker y migraciones de base de datos.
-- Desarrollo con varias consolas de Claude Code por módulo y una orquestadora que revisa, hace merge y despliega.
+- Diseño y desarrollo de **Conectate OSS**, la plataforma con la que opera la empresa: un monolito modular con Clean Architecture y DDD, construido con TDD y desplegado con Docker.
+- Migración de la facturación desde un sistema de terceros a una solución propia.
+- Atención omnicanal con Meta (WhatsApp, Facebook e Instagram), Chatwoot y n8n, con un asistente que responde a los clientes con datos reales de la plataforma.
+- Integraciones con pasarelas de pago, gestión de red y telefonía IP.
+- Desarrollo asistido por agentes de IA (Claude Code), con revisión y control de calidad en cada entrega.
+
+---
+
+## Educación
+
+**Tecnología en Desarrollo de Software** · Universidad del Valle
+<br><sub>2022 — 2026</sub>
+
+- Reconocido como mejor graduando del programa.
 
 ---
 
@@ -48,15 +57,15 @@ Hoy desarrollo la plataforma con la que opera un proveedor de internet por fibra
     </td>
     <td width="55%" valign="top">
       <h3>Conectate OSS</h3>
-      <p>Plataforma OSS para un proveedor de internet por fibra óptica con más de 2.300 clientes, construida desde cero y en uso diario por caja, soporte, técnicos y administración.</p>
+      <p>Plataforma de gestión operativa para un proveedor de internet por fibra óptica, diseñada y construida desde cero y en uso diario en producción.</p>
       <ul>
-        <li>Facturación y cobranza propias, con corte y reconexión automáticos</li>
-        <li>Bot de WhatsApp, Facebook e Instagram (n8n) que valida comprobantes de pago con IA</li>
-        <li>Integración con SmartOLT para diagnosticar equipos y mapa de la red FTTH</li>
-        <li>Tickets con evidencia, instalaciones, inventario y RRHH con reloj biométrico</li>
-        <li>Permisos por rol y base preparada para varias empresas</li>
+        <li>Facturación, cobranza y pagos en línea</li>
+        <li>Clientes, soporte técnico, instalaciones e inventario</li>
+        <li>Documentación de la red de fibra óptica</li>
+        <li>Atención omnicanal con Meta, Chatwoot y n8n, con asistente que responde con datos reales</li>
+        <li>Arquitectura multiempresa con control de acceso por roles</li>
       </ul>
-      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>TDD</code> <code>DDD</code></p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>n8n</code> <code>Chatwoot</code></p>
       <p>En producción · Empresa real · Plataforma privada</p>
     </td>
   </tr>
