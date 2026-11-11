@@ -14,7 +14,7 @@
 
 Construyo software completo — de la idea al producto funcionando en producción para empresas reales.
 
-Hoy desarrollo la plataforma con la que opera un proveedor de internet por fibra óptica. Trabajo con **Clean Architecture, DDD, POO y principios SOLID**, con **TDD** estricto y un flujo **SDD** (propuesta → spec → diseño → tareas), apoyado en agentes de IA con **Claude Code**.
+Diseño y construyo plataformas empresariales que operan en producción todos los días. Trabajo con **Clean Architecture, DDD, POO y principios SOLID**, con **TDD** estricto y un flujo **SDD** (propuesta → spec → diseño → tareas), apoyado en agentes de IA con **Claude Code**.
 
 ---
 
