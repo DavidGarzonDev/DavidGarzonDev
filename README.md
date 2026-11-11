@@ -24,6 +24,7 @@ Diseño y construyo plataformas empresariales que operan en producción todos lo
 <br><sub>Jun 2026 — Actualidad</sub>
 
 - Diseño y desarrollo de **Conectate OSS**, la plataforma con la que opera la empresa: un monolito modular con Clean Architecture y DDD, construido con TDD y desplegado con Docker.
+- Administración de los servidores Proxmox donde corren la plataforma y sus entornos de pruebas.
 - Migración de la facturación desde un sistema de terceros a una solución propia.
 - Atención omnicanal con Meta (WhatsApp, Facebook e Instagram), Chatwoot y n8n, con un asistente que responde a los clientes con datos reales de la plataforma.
 - Integraciones con pasarelas de pago, gestión de red y telefonía IP.
@@ -63,9 +64,9 @@ Diseño y construyo plataformas empresariales que operan en producción todos lo
         <li>Clientes, soporte técnico, instalaciones e inventario</li>
         <li>Documentación de la red de fibra óptica</li>
         <li>Atención omnicanal con Meta, Chatwoot y n8n, con asistente que responde con datos reales</li>
-        <li>Arquitectura multiempresa con control de acceso por roles</li>
+        <li>Arquitectura multiempresa con control de acceso por roles, desplegada en servidores Proxmox propios</li>
       </ul>
-      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>n8n</code> <code>Chatwoot</code></p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>Proxmox</code> <code>n8n</code> <code>Chatwoot</code></p>
       <p>En producción · Empresa real · Plataforma privada</p>
     </td>
   </tr>
