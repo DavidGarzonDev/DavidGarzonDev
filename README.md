@@ -44,7 +44,7 @@ Hoy desarrollo la plataforma con la que opera un proveedor de internet por fibra
 <table>
   <tr>
     <td width="45%">
-      <img src="assets/conectate.png" width="100%" alt="Conectate OSS" />
+      <img src="assets/conectate-oss.jpg" width="100%" alt="Conectate OSS" />
     </td>
     <td width="55%" valign="top">
       <h3>Conectate OSS</h3>
