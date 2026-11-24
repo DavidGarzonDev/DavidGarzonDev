@@ -72,7 +72,7 @@ Diseño y construyo plataformas empresariales que operan en producción todos lo
   </tr>
   <tr>
     <td width="45%">
-      <img src="https://i.ibb.co/hJYm4Hjf/gessat.png" width="100%" alt="Gessat" />
+      <img src="assets/gessat.jpg" width="100%" alt="Gessat" />
     </td>
     <td width="55%" valign="top">
       <h3>Gessat</h3>
