@@ -72,6 +72,26 @@ Diseño y construyo plataformas empresariales que operan en producción todos lo
   </tr>
   <tr>
     <td width="45%">
+      <img src="assets/conectate-web.jpg" width="100%" alt="Sitio web de Conéctate" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>Sitio web de Conéctate</h3>
+      <p>Rediseño completo del sitio de un proveedor de fibra óptica, contado por una fibra óptica de luz en WebGL que recorre la página.</p>
+      <ul>
+        <li>Consulta de cobertura por barrio y selector de velocidad animado</li>
+        <li>Chat propio en tiempo real conectado a Chatwoot</li>
+        <li>WhatsApp con mensajes por plan, reporte de pagos, PQRSF y test de velocidad</li>
+        <li>SEO de 67 a 93 sobre 100</li>
+      </ul>
+      <p><code>JavaScript</code> <code>Vite</code> <code>TailwindCSS</code> <code>WebGL</code> <code>Motion</code> <code>Chatwoot</code></p>
+      <p>En producción · Empresa real</p>
+      <a href="https://conectate.com.co">
+        <img src="https://img.shields.io/badge/conectate.com.co-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="conectate.com.co" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
       <img src="assets/gessat.jpg" width="100%" alt="Gessat" />
     </td>
     <td width="55%" valign="top">
